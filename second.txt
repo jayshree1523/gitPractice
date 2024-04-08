@@ -1,1 +1,1 @@
-this is the secone file which belong to other branch.
+this is the second file which belong to other branch.
