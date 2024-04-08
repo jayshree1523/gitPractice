@@ -10,4 +10,5 @@
 . git checkout branch - also used for switch the branch
 . git push origin your_branch_name =after creating the subbranch, push that subbranch in github repo
 . git push origin subBranch name
+. git merge subbranch name 
 
