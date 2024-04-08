@@ -1,0 +1,10 @@
+. git add filename
+. git add . = add all the modifies files
+. git status = show the status that if any changes are done or need to be add or commit the file
+. git commit = commit the file and can also give the msg for commit
+. git log = shows all the history that till how many commits has done
+. git commit --amend = edit the last commit msg
+. git branch - give the current branch
+. git switch branchname - switch the branch
+. git switch -c branchname - creating and switch the branch
+. git checkout branch - also used for switch the branch
